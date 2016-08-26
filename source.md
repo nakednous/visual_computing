@@ -37,8 +37,8 @@ H:
 
 ## Background
 
-* 2008-2012, Computer graphics course
-* 2013-present, Visual computing course
+<li class="fragment"> 2008-2012, Computer graphics course
+<li class="fragment"> 2013-present, Visual computing course
 
 V:
 
@@ -76,9 +76,9 @@ V:
 ## Problem
 ### Methodology
 
-* Appropiation through collaboration
-* Openneness
-* Reproducibility
+<li class="fragment"> Appropiation through collaboration
+<li class="fragment"> Openneness
+<li class="fragment"> Promote reproducible research
 
 H:
 
