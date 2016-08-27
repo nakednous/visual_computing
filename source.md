@@ -37,15 +37,17 @@ H:
 
 ## Background
 
-<li class="fragment"> 2008-2012, Computer graphics course
-<li class="fragment"> 2013-present, Visual computing course
+<li class="fragment"> 2000-2003, Computer graphics (course-v.1)
+<li class="fragment"> 2008-2012, Computer graphics (course-v.2)
+<li class="fragment"> 2011-present, Online Collaboration Communities (OCC) involvement
+<li class="fragment"> 2013-present, Visual computing (course-v.3)
 
 V:
 
 ## Methodology: Problem
-### Experience
+### Statement
 
-Online collaborations communities vs Academic world
+> How to bring the best OCC practices into the academic world?
 
 <li class="fragment"> Motivations
 <li class="fragment"> Access
@@ -64,8 +66,8 @@ Claerbout's doctrine:
 
 V:
 
-## Problem
-### Proposals
+## Methodology: Problem
+### Research dilemma: Proposals
 
 <li class="fragment"> Journals: [JOSS](http://joss.theoj.org/), [JORS](http://openresearchsoftware.metajnl.com/), [SoftwareX](http://www.journals.elsevier.com/softwarex/)
 <li class="fragment"> [Depsy](http://depsy.org/)
